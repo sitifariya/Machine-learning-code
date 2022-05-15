@@ -1,0 +1,19 @@
+print("Mean")
+import numpy
+
+score = [100,85,75,100,50,95,80,70,55,100]
+
+x = numpy.mean(score)
+
+print(x)
+
+print("\n")
+
+print("Median")
+import numpy
+
+score = [100,85,75,100,50,95,80,70,55,100]
+
+x = numpy.median(score)
+
+print(x)
